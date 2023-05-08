@@ -1,0 +1,5 @@
+[
+    {"id":1, "nombre":"Remera gris","cantidad":1, "precio":6000, "stock":10, "img":"./assets/img/remera-hombre.jpeg", "alt":"remera overside"},
+    {"id":2, "nombre":"Remera blanca","cantidad":1, "precio":6000, "stock":10, "img":"./assets/img/remera-hombre2.jpeg", "alt":"remera overside2"},
+    {"id":3, "nombre":"Remera marron","cantidad":1, "precio":6000, "stock":10, "img":"./assets/img/remera-hombre3.jpeg", "alt":"remera overside3"}
+]

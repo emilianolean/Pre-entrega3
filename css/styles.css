@@ -1,10 +1,31 @@
-body{
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+
+/*estilos del body*/
+body {
+    margin: 0;
+    background-color: antiquewhite;
 }
 
 
-footer{
-    color: black;
+/* estilos del footer */
+footer {
+    background-color: gray;
+    border: 1px solid black;
+    align-self: flex-end;
+    position: absolute;
+    bottom: 0;
+    padding: 2rem;
     width: 100%;
+}
+
+footer h3 {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
 }
